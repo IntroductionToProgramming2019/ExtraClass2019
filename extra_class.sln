@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q1", "Q1\Q1.csproj", "{B11AADFF-FFD0-4938-A341-E2C970D444FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nuggets", "nuggets\nuggets.csproj", "{4ACB4C8F-3CA3-47B9-A0E9-CC42D9A3B7AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11AADFF-FFD0-4938-A341-E2C970D444FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11AADFF-FFD0-4938-A341-E2C970D444FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11AADFF-FFD0-4938-A341-E2C970D444FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11AADFF-FFD0-4938-A341-E2C970D444FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ACB4C8F-3CA3-47B9-A0E9-CC42D9A3B7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ACB4C8F-3CA3-47B9-A0E9-CC42D9A3B7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ACB4C8F-3CA3-47B9-A0E9-CC42D9A3B7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ACB4C8F-3CA3-47B9-A0E9-CC42D9A3B7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A48566A-5A68-476C-AAA2-77B60113FA98}
+	EndGlobalSection
+EndGlobal
